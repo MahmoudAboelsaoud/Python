@@ -1,0 +1,19 @@
+
+###########################################
+Operation Time : 2021-04-12 14:56:01.751994
+###########################################
+ BadahKolaya =  0.0
+ Rasalmal    =  0
+ Fatar       =  0
+ Asha        =  0
+ Mokamdad    =  0
+ Manfaz      =  0
+ Moasasa     =  0
+ BadaMorahal =  0
+ Takrasha    =  0
+ Nakdy       =  0
+ Nathruat    =  0
+ Bonat       =  0
+###########################################
+
+IT IS NOT FINE ^-^ The Lose = 22.0

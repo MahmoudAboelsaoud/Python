@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GUI_age_app_Tkinter", "GUI_age_app_Tkinter.pyproj", "{42D608C3-A3D2-46BC-9EC7-0E7BED2DF210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D608C3-A3D2-46BC-9EC7-0E7BED2DF210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D608C3-A3D2-46BC-9EC7-0E7BED2DF210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97887D68-5EED-4AF6-8C44-064A015FC1C8}
+	EndGlobalSection
+EndGlobal
